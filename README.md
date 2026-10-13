@@ -1,1 +1,1 @@
-# IBM-CI-CD-GitHub-Actions-Tekton-on-OpenShift-final-project
+# CI/CD Pipeline Project with GitHub Actions and OpenShift Tekton
